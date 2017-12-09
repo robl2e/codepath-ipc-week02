@@ -12,3 +12,15 @@ Problems:
 * LongestSubstringWithoutRepeat
 * DeleteDuplicates
 * SwapListNodePairs
+
+# Assignment 2
+
+## GIF Walkthrough
+
+<img src='https://i.imgur.com/HQ2tCZj.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+
+Problems:
+* Anagrams
+* PointsOnAStraightLine
+* AddTwoNumbersAsList
+* ParitiionList
